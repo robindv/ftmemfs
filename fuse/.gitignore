@@ -1,0 +1,7 @@
+*.o
+ftmemfs
+hello_zookeeper
+hello_zookeeper.c
+test_hrw.c
+crash_test
+write_test

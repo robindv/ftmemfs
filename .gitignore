@@ -1,0 +1,3 @@
+*.pyc
+*_tester.py
+config_platform.ini

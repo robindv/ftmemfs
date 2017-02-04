@@ -1,0 +1,7 @@
+kazoo==2.2.1
+psutil==4.3.0
+pyzmq==15.2.0
+redis==2.10.5
+six==1.10.0
+wsgiref==0.1.2
+xxhash==0.6.1

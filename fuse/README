@@ -1,0 +1,5 @@
+Next to the current version of ftmemfs.c, you can find all kinds of uncommented code to:
+
+- Switch from hiredis/thredis.c to eredis
+- Enable read/write locks using ZooKeeper
+- Cache the metadata

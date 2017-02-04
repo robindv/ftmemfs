@@ -1,0 +1,3 @@
+This folder contains configuration used by weasel (https://github.com/ovedanner/weasel).
+
+A lot of the variables are not used anymore and the remaining configuration should be moved to the .ini configuration files.
